@@ -1,8 +1,8 @@
-evaluate(new File("abc.groovy"))
+
 void call(){
     echo "ANMOL KUMAR"
     add()
-    ABC()
+    abc()
 }
 
 def add(){
