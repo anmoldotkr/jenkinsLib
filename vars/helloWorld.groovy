@@ -1,5 +1,6 @@
+evaluate(new File("./abc.groovy"))
 void call(){
-    echo "Bhaskar Lodhi"
+    echo "ANMOL KUMAR"
     add()
 }
 
