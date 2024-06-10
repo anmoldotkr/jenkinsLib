@@ -1,3 +1,3 @@
 void call(){
-    sh "echo Bhaskar Lodhi"
+    echo Bhaskar Lodhi
 }
