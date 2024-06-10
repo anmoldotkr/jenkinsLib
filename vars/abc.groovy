@@ -3,7 +3,7 @@ def call(){
   sub(90,90)
 }
 
-void sub(int a,int b){
+void sub(int a1,int b1){
   def a1
   def b1
   def res1 = a1+b1
