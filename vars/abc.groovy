@@ -1,3 +1,3 @@
 def ABC(){
-  echo "This is ABC"
+  println "This is ABC"
 }
