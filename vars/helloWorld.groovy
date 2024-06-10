@@ -1,5 +1,6 @@
 void call(){
     echo "Bhaskar Lodhi"
+    add()
 }
 
 def add(){
