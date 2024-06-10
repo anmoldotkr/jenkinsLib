@@ -1,3 +1,3 @@
-def call(){
+void call(){
     sh 'Hello Anmol This Side'
 }
