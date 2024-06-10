@@ -1,3 +1,3 @@
-void call(){
-    sh 'Hello Anmol This Side'
+String call(){
+    return "Hello Anmol This Side"
 }
