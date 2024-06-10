@@ -1,3 +1,3 @@
-def ABC(){
+def call(){
   println "This is ABC"
 }
