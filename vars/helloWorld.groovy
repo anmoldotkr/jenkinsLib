@@ -1,3 +1,3 @@
-String call(){
-    return "Hello Anmol This Side"
+int call(int a , int b){
+    return (a + b);
 }
